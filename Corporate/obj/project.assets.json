@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MartinKapcala\\.nuget\\packages\\": {}
+    "C:\\Users\\JakubDekař\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-tym-template\\Corporate\\Corporate.csproj",
+      "projectUniqueName": "C:\\Users\\JakubDekař\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-valecni-zlocinci\\Corporate\\Corporate.csproj",
       "projectName": "Corporate",
-      "projectPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-tym-template\\Corporate\\Corporate.csproj",
-      "packagesPath": "C:\\Users\\MartinKapcala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-tym-template\\Corporate\\obj\\",
+      "projectPath": "C:\\Users\\JakubDekař\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-valecni-zlocinci\\Corporate\\Corporate.csproj",
+      "packagesPath": "C:\\Users\\JakubDekař\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JakubDekař\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-valecni-zlocinci\\Corporate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MartinKapcala\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\JakubDekař\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

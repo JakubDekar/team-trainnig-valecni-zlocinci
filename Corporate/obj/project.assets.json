@@ -8,31 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\BrunoDavidVontor\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\JakubDekař\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BrunoDavidVontor\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-valecni-zlocinci\\Corporate\\Corporate.csproj",
+      "projectUniqueName": "C:\\Users\\JakubDekař\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-valecni-zlocinci\\Corporate\\Corporate.csproj",
       "projectName": "Corporate",
-      "projectPath": "C:\\Users\\BrunoDavidVontor\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-valecni-zlocinci\\Corporate\\Corporate.csproj",
-      "packagesPath": "C:\\Users\\BrunoDavidVontor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BrunoDavidVontor\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-valecni-zlocinci\\Corporate\\obj\\",
+      "projectPath": "C:\\Users\\JakubDekař\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-valecni-zlocinci\\Corporate\\Corporate.csproj",
+      "packagesPath": "C:\\Users\\JakubDekař\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JakubDekař\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-valecni-zlocinci\\Corporate\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\BrunoDavidVontor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\JakubDekař\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

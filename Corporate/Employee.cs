@@ -30,6 +30,9 @@ namespace Program{
             return "Name: " + Name + "Salary: " + Salary + "Position: " + Position;
         }
     }
+    //až budeš radime mergovat tak odstran 
+
+
     /// <summary>
     ///     this is class manager which is inherited from class Employee
     /// </summary>
@@ -95,12 +98,13 @@ namespace Program{
         public new int GetBonus(int plat){
             return Salary = Convert.ToInt32(Salary + (Salary * 0.05) + (sales*50));
         }
+    }
     class Company
     {
         /// <summary>
-        /// uchovávaní zamestnancu
+        /// uchovávaní zamestnancu - 
         /// </summary>
-        private List<Employee> employees;
+        private  List<Employee> employees = new List<Employee>();
 
         public Company()
         {
@@ -111,12 +115,14 @@ namespace Program{
         {
             employees.Add(employee);
         }
-        public void PrintEmployees()
+        override public string ToString()
         {
+            string output = "";
             foreach (var employee in employees)
             {
-                Console.WriteLine(employee);
+                output = output + employee;
             }
+            return output;
         }
 
         public void PayBonuses()
@@ -126,7 +132,6 @@ namespace Program{
                 double bonus = employee.GetBonus(0);
                 Console.WriteLine($"{employee.Name}: {bonus:C}");
             }
-     }
-    }
+        }
     }
 }

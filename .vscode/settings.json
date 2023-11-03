@@ -1,3 +1,6 @@
 {
-    "dotnet.defaultSolution": "Corporate.sln"
+    "dotnet.defaultSolution": "Corporate.sln",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "Jakub-Dekař"
+    ]
 }

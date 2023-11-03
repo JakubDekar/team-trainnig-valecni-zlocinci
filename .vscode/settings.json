@@ -2,5 +2,6 @@
     "dotnet.defaultSolution": "Corporate.sln",
     "githubPullRequests.ignoredPullRequestBranches": [
         "Jakub-Dekař"
-    ]
+    ],
+    "files.autoSave": "afterDelay"
 }

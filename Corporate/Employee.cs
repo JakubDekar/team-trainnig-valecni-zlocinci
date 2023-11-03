@@ -102,7 +102,7 @@ namespace Program{
     class Company
     {
         /// <summary>
-        /// uchovávaní zamestnancu - 
+        /// uchovávaní zamestnancu
         /// </summary>
         private  List<Employee> employees = new List<Employee>();
 

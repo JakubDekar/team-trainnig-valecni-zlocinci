@@ -6,7 +6,7 @@ namespace Program{
     /// 
     /// POZOR !!!
     /// 
-    /// smazat class Employee a nahradit radimoým Employee !!!
+    /// smazat class Employee a nahradit radimoým Employee !!!-
     /// </summary>
    public class Employee{
         public string Name{set;get;}
